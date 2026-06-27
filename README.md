@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-dernier-regard/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Un Dernier Regard](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-dernier-regard/) |
+| **Get License** | [Get a Licensing Quote for Un Dernier Regard](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-dernier-regard/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f1c76f3f8263856d9116b5fac62008b3b2dda9761b397489389c7fa1d02f1928` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

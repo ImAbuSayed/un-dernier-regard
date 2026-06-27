@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un Dernier Regard
+
+This log tracks the cryptographic history and versioning for the song **Un Dernier Regard** (un-dernier-regard).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T06:03:06.830568 | `v1` | `f1c76f3f8263856d9116b5fac62008b3b2dda9761b397489389c7fa1d02f1928` | `6612507892578ae02decb39f7219dd9dfa9070c3b651dfc94a8541bdbfdeb055` | `2026-06-27_un-dernier-regard-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
