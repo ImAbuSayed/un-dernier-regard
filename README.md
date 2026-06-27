@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-dernier-regard/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Un Dernier Regard](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-dernier-regard/) |
+| **Get License** | [Official Music Licensing for Un Dernier Regard](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-dernier-regard/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton parfum dans l'air, notre ivresse nocturne
+> Un dernier regard et mon âme s'allume
+> Sous les lumières de Paris, tu es ma vision
+> La reine de la nuit, ma douce addiction
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
